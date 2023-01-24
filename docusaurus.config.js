@@ -60,7 +60,7 @@ const config = {
         title: 'To-do List Application',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'image.png',
         },
         items: [
           {
