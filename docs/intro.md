@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-![To-dolist](./todolist.png)
+![To-dolist](./education.png)
 
 Selamat datang di Bimbel Karakter Anak, tempat di mana anak-anak usia 3-4 tahun dapat belajar dan tumbuh dalam lingkungan yang mendukung pengembangan karakter yang baik. Kami percaya bahwa pendidikan karakter adalah komponen penting dalam proses belajar anak dan kami berusaha untuk menyediakan lingkungan yang kondusif bagi anak-anak untuk belajar tentang nilai-nilai seperti kejujuran, kebajikan, dan tanggung jawab.
 
