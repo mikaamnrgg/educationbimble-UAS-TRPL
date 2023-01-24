@@ -11,7 +11,7 @@ const config = {
   url: 'https://educationbimble-mika.vercel.app//',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',6
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
