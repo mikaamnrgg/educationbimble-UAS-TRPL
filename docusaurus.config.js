@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'To-do List Application',
         logo: {
-          alt: 'My Site Logo',
+          
           src: 'image.png',
         },
         items: [
