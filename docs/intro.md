@@ -6,9 +6,11 @@ sidebar_position: 1
 
 ![To-dolist](./todolist.png)
 
-Welcome to our to-do list application! This web-based tool is designed to help you manage your daily tasks and stay organized. Whether you need to keep track of groceries to buy, tasks to complete at work, or personal goals to achieve, our application has you covered. With its clean and simple user interface, you can easily add, edit, and delete tasks, and mark them as complete when you're finished. You can also organize your tasks into different categories or lists to help you stay focused and on track. We hope that our to-do list application becomes a valuable tool in your daily life. Thank you for choosing us!
+Selamat datang di Bimbel Karakter Anak, tempat di mana anak-anak usia 3-4 tahun dapat belajar dan tumbuh dalam lingkungan yang mendukung pengembangan karakter yang baik. Kami percaya bahwa pendidikan karakter adalah komponen penting dalam proses belajar anak dan kami berusaha untuk menyediakan lingkungan yang kondusif bagi anak-anak untuk belajar tentang nilai-nilai seperti kejujuran, kebajikan, dan tanggung jawab.
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+Melalui program yang kami tawarkan, anak-anak akan belajar tentang pentingnya berbagi, bekerja sama, dan menghormati orang lain. Kami juga menyediakan aktivitas yang menyenangkan dan menantang, seperti seni dan kerajinan, yang akan membantu anak-anak untuk mengejar minat mereka dan mengembangkan keterampilan mereka.
+
+Kami di Bimbel Karakter Anak sangat peduli tentang kebahagiaan dan kesejahteraan anak-anak kami dan kami berusaha untuk menciptakan lingkungan yang aman dan nyaman bagi mereka untuk belajar dan tumbuh. Kami menantikan kesempatan untuk bekerja sama dengan Anda dalam proses pendidikan anak Anda dan membantu mereka untuk menjadi pribadi yang baik dan berkarakter.
 
 # Background
 
