@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Education Bimble',
+  title: 'Education',
   tagline: 'From groceries to goals, we have got you covered.',
   url: 'https://educationbimble-mika.vercel.app//',
   baseUrl: '/',
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Education Bimble',
+        title: 'To-do List Application',
         logo: {
           alt: 'My Site Logo',
-          src: 'image.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
