@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'To-do list application',
   tagline: 'From groceries to goals, we have got you covered.',
-  url: 'https://educationbimble.vercel.app/',
+  url: 'https://educationbimble-mika.vercel.app//',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
