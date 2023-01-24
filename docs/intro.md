@@ -14,4 +14,8 @@ Kami di Bimbel Karakter Anak sangat peduli tentang kebahagiaan dan kesejahteraan
 
 # Background
 
-There are many to-do list applications available on the market, but many of them are either too complex or lack important features. The goal of this project is to create a simple, yet powerful to-do list application that meets the needs of a wide range of users.
+Bimbel Karakter Anak merupakan sebuah lembaga pendidikan yang didirikan dengan tujuan untuk menyediakan pendidikan karakter yang baik bagi anak-anak usia 3-4 tahun yang orang tuanya sibuk bekerja. Kami menyadari bahwa banyak orang tua saat ini memiliki jadwal kerja yang padat dan kurang memiliki waktu untuk memberikan pendidikan karakter yang baik kepada anak-anak mereka. Oleh karena itu, kami bertekad untuk memberikan dukungan yang diperlukan bagi anak-anak untuk tumbuh dan belajar dalam lingkungan yang mendukung pengembangan karakter yang baik.
+
+Program yang kami tawarkan di Bimbel Karakter Anak didesain untuk menyediakan pengalaman belajar yang menyenangkan dan menantang bagi anak-anak. Kami menyediakan beragam aktivitas yang akan membantu anak-anak untuk belajar tentang nilai-nilai seperti kejujuran, kebajikan, dan tanggung jawab. Kami juga menyediakan program bimbingan khusus untuk anak-anak yang membutuhkan dukungan khusus, seperti anak-anak yang kurang percaya diri atau yang kesulitan dalam belajar.
+
+Kami di Bimbel Karakter Anak sangat peduli tentang kebahagiaan dan kesejahteraan anak-anak kami dan kami berusaha untuk menciptakan lingkungan yang aman dan nyaman bagi mereka untuk belajar dan tumbuh. Kami juga bekerja sama dengan orang tua untuk memastikan bahwa anak-anak kami menerima pendidikan yang terbaik dan dukungan yang diperlukan. Kami menyediakan laporan perkembangan anak-anak secara berkala kepada orang tua agar mereka dapat mengetahui perkembangan anak-anak mereka.
