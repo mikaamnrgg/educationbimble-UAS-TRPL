@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'To-do List Application',
+        title: 'Education Bimble',
         logo: {
           src: 'image.png',
         },
