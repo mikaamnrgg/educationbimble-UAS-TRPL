@@ -4,15 +4,15 @@ sidebar_position: 2
 
 # User needs
 
-- The application must be accessible from any modern web browser on desktop and mobile devices.
-- The application must allow users to create new tasks by entering a task name, optional task description, and optional due date.
-- The application must allow users to edit existing tasks by changing the task name, description, or due date.
-- The application must allow users to mark tasks as complete or incomplete.
-- The application must allow users to delete tasks.
-- The application must allow users to create, edit, and delete categories or lists to organize their tasks.
-- The application must allow users to filter and sort their tasks by various criteria, such as task name, due date, or category.
-- The application must have a responsive design to ensure that it works well on both desktop and mobile devices.
-- The application must have a search function to allow users to easily find specific tasks.
-- The application must have an "urgent" flag that allows users to mark tasks as high priority.
-- The application must have a notification system that reminds users of upcoming due dates via email or push notification.
-- The application must have a secure login system to protect user data.
+- Konten pendidikan interaktif dan sesuai usia untuk anak usia 3-4 tahun.
+- Aktivitas dan permainan menyenangkan yang membantu dalam mengembangkan karakter dan nilai moral anak.
+- Antarmuka yang mudah digunakan bagi orang tua dengan jadwal yang sibuk untuk memantau perkembangan dan partisipasi anak dalam program.
+- Opsi bagi orang tua untuk menyesuaikan program berdasarkan gaya dan kecepatan belajar anak.
+- Opsi bagi orang tua untuk menetapkan tujuan harian atau mingguan untuk perkembangan karakter anak.
+- Opsi bagi orang tua untuk menerima laporan reguler tentang perkembangan dan partisipasi anak.
+- Opsi bagi orang tua untuk berkomunikasi dengan pendidik program untuk dukungan dan masukan tambahan.
+- Opsi bagi orang tua untuk menetapkan sistem reward untuk anak yang menyelesaikan program.
+- Opsi bagi orang tua untuk mengakses program offline.
+- Opsi bagi orang tua untuk melacak perkembangan anak dengan membandingkan hasil sebelum dan sesudah menggunakan program.
+- Opsi bagi orang tua untuk mengatur pengingat bagi anak untuk menggunakan program.
+- Opsi bagi orang tua untuk mengatur pengingat untuk diri sendiri untuk memantau perkembangan anak.
