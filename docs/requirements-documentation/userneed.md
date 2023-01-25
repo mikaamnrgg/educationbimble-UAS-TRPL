@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # User needs
 
-- Konten pendidikan interaktif dan sesuai usia untuk anak usia 3-4 tahun.
+- Konten pendidikan interaktif dan sesuai usia untuk anak-anak.
 - Aktivitas dan permainan menyenangkan yang membantu dalam mengembangkan karakter dan nilai moral anak.
 - Antarmuka yang mudah digunakan bagi orang tua dengan jadwal yang sibuk untuk memantau perkembangan dan partisipasi anak dalam program.
 - Opsi bagi orang tua untuk menyesuaikan program berdasarkan gaya dan kecepatan belajar anak.

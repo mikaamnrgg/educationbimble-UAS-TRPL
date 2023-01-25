@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-Bimble Education adalah sebuah aplikasi mobile yang dirancang untuk mendukung pendidikan dan perkembangan anak-anak usia 3-4 tahun. Aplikasi ini bertujuan untuk memberikan pengalaman belajar interaktif dan menyenangkan bagi anak-anak, sambil juga mengakomodasi jadwal sibuk orang tua.
+Bimble Education adalah sebuah aplikasi mobile yang dirancang untuk mendukung pendidikan dan perkembangan anak-anak. Aplikasi ini bertujuan untuk memberikan pengalaman belajar interaktif dan menyenangkan bagi anak-anak, sambil juga mengakomodasi jadwal sibuk orang tua.
 
 Fokus utama dari aplikasi ini adalah untuk menyediakan konten yang sesuai usia dan mendidik bagi anak-anak, seperti permainan interaktif, video, dan aktivitas yang dirancang untuk menghibur dan mendidik. Aplikasi ini juga termasuk antarmuka yang mudah digunakan dan di navigasikan untuk baik orang tua maupun anak.
 
