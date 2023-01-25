@@ -15,8 +15,4 @@ sidebar_position: 5
 | Data Privacy  	| Perlindungan privasi data pengguna yang dikumpulkan dan digunakan oleh aplikasi.	|
 | Compatibility	|Kemampuan suatu aplikasi atau perangkat untuk bekerja dengan baik dan sesuai dengan perangkat atau sistem operasi lain. 	|
 | Maintenance  	| Pemeliharaan dan perbaikan aplikasi untuk menjaga kinerja dan kualitas yang optimal. 	|
-| Support  	| Dukungan teknis yang diberikan untuk mengatasi masalah atau pertanyaan yang dihadapi pengguna.
-
-
-
- 	|
+| Support  	| Dukungan teknis yang diberikan untuk mengatasi masalah atau pertanyaan yang dihadapi pengguna.      |
