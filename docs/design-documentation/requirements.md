@@ -4,8 +4,16 @@ sidebar_position: 2
 
 # Requirements
 
-- Tujuan: Aplikasi ini ditujukan untuk mendidik karakter anak-anak usia 3-4 tahun yang dikarenakan orang tua nya sibuk.
-- konten: Aplikasi harus menyertakan berbagai konten pendidikan seperti game, aktivitas interaktif, dan video yang sesuai usia untuk anak-anak berusia antara 3-4 tahun. Konten harus dirancang untuk mengajarkan konsep dasar seperti angka, huruf, dan bentuk.
-- Kontrol orang tua: Aplikasi harus menyertakan kontrol orang tua yang memungkinkan orang tua memantau kemajuan anak mereka dan menetapkan batas waktu penggunaan.
-- Pelacakan Perkembangan: Aplikasi harus melacak kemajuan anak dan memberikan umpan balik kepada orang tua di area di mana anak mereka unggul dan area di mana mereka mungkin membutuhkan dukungan tambahan.
-- The application must have a responsive design to ensure that it works well on both desktop and mobile devices.
+- Pendahuluan: Deskripsi singkat tentang aplikasi Bimble yang bertujuan untuk mendidik karakter anak yang dikarenakan orang tua nya sibuk.
+- Tujuan: Tujuan dari aplikasi ini adalah untuk meningkatkan karakter anak melalui interaksi yang menyenangkan dan menarik.
+- Fitur-fitur:
+Game interaktif yang dirancang khusus untuk anak usia dini
+Video pendidikan yang menyenangkan dan bermanfaat
+Kuis untuk menguji pengetahuan anak
+Sistem reward untuk memotivasi anak belajar
+Konten yang dapat disesuaikan dengan usia anak
+- Teknologi: Aplikasi ini dikembangkan menggunakan Unity dan dioptimalkan untuk perangkat mobile.
+- Target pengguna: Aplikasi ini ditujukan untuk anak dan orang tua yang sibuk.
+- Kebutuhan sumber daya: Aplikasi ini memerlukan akses internet untuk mengunduh konten dan dapat dijalankan pada perangkat mobile dengan spesifikasi yang cukup.
+- Rencana pengembangan: Aplikasi ini akan diperbarui secara berkala dengan konten baru dan fitur-fitur yang dapat membantu dalam proses pendidikan anak.
+- Dokumentasi: Dokumentasi aplikasi ini akan disediakan dalam bentuk manual pengguna dan panduan pengembangan untuk developer.
