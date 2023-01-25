@@ -4,20 +4,20 @@ sidebar_position: 3
 
 # Requirements
 
-- The front-end client of the application must be built using HTML, CSS, and JavaScript, and must be designed to be responsive and work well on desktop and mobile devices.
-- The front-end client must use a RESTful API to communicate with the backend server.
-- The backend server of the application must be built using Python and the Flask framework.
-- The backend server must use a MySQL database to store the tasks and other application data.
-- The database must consist of a single tasks table, with columns for the task name, description, due date, completion status, and "urgent" flag.
-- The backend server must use the Flask-SQLAlchemy library to interact with the database and perform CRUD (create, read, update, delete) operations on the tasks.
-- The user interface must display a list of tasks, with the ability to filter and sort the tasks by various criteria, such as task name, due date, or category.
-- The user interface must allow users to create new tasks by entering a task name, optional task description, and optional due date.
-- The user interface must allow users to edit existing tasks by changing the task name, description, or due date.
-- The user interface must allow users to mark tasks as complete or incomplete.
-- The user interface must allow users to delete tasks.
-- The user interface must allow users to create, edit, and delete categories or lists to organize their tasks.
-- Each task must be displayed in a card-like layout, with the task name, description, and due date displayed prominently.
-- The user interface must have a search function that allows users to search for tasks by task name or description.
-- The user interface must have an "urgent" flag that can be set for tasks, which will cause the tasks to be displayed in a different color to indicate their high priority status.
-- The application must have a notification system that sends reminders to users via email or push notification when a task is approaching its due date.
-- The application must have a secure login system to protect user data, using industry-standard encryption techniques.
+- Klien front-end aplikasi harus dibangun menggunakan HTML, CSS, dan JavaScript, dan harus dirancang agar responsif dan bekerja dengan baik di desktop dan perangkat seluler.
+- Klien front-end harus menggunakan RESTful API untuk berkomunikasi dengan server backend.
+- Server backend aplikasi harus dibangun menggunakan Python dan framework Flask.
+- Server backend harus menggunakan database MySQL untuk menyimpan tugas dan data aplikasi lainnya.
+- Server backend harus menggunakan library Flask-SQLAlchemy untuk berinteraksi dengan database dan melakukan operasi CRUD (buat, baca, perbarui, hapus) pada tugas.
+- Pendaftaran dan login pengguna untuk orang tua untuk melacak kemajuan anak mereka.
+- Pelacakan kemajuan dan laporan untuk orang tua untuk memantau pembelajaran dan pemahaman anak mereka terhadap materi.
+- Rencana pelajaran dan aktivitas yang dapat disesuaikan berdasarkan kebutuhan dan kemampuan individu anak.
+- Antarmuka pengguna yang sederhana dan intuitif yang dirancang untuk anak-anak kecil untuk dapat mennavigasi secara mandiri.
+- Pilihan untuk orang tua untuk mengatur batas penggunaan harian untuk memastikan bahwa anak tidak terlalu banyak waktu di aplikasi.
+- Kontrol orang tua untuk memantau dan membatasi akses ke fitur atau konten tertentu.
+- Antarmuka pengguna harus menampilkan daftar tugas, dengan kemampuan untuk memfilter dan mengurutkan tugas berdasarkan berbagai kriteria, seperti nama tugas, tanggal jatuh tempo, atau kategori.
+- Pembaruan reguler dan konten baru untuk menjaga aplikasi menarik dan efektif dalam jangka waktu.
+- Ukuran keamanan data dan privasi untuk melindungi anak-anak dan keluarga mereka.
+- Antarmuka pengguna harus memiliki fungsi pencarian yang memungkinkan pengguna mencari berdasarkan nama atau deskripsi yang dicari.
+- Aplikasi harus memiliki sistem notifikasi pengingat kepada pengguna melalui email atau pemberitahuan aplikasi.
+- Aplikasi harus memiliki sistem login yang aman untuk melindungi data pengguna, menggunakan teknik enkripsi standar industri.
