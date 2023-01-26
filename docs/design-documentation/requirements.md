@@ -23,6 +23,13 @@ Konten yang dapat disesuaikan dengan usia anak
 - Class Diagram
 
 ![1](./img/UML-ClassDiagram.png)
-some caption.
+
+- Use Case Diagram
+
+![1](./img/UML-UseCase.png)
+
+- Activity Diagram
+
+![1](./img/UML-ActivityDiagram.png)
 
 
