@@ -4,11 +4,29 @@ sidebar_position: 3
 
 # Design
 
-The to-do list application will be built using a standard three-tier architecture, with a front-end client, a backend server, and a database. The front-end client will be implemented using HTML, CSS, and JavaScript, and will communicate with the backend server using a RESTful API. The backend server will be implemented using Python and the Flask framework, and will use a MySQL database to store the tasks and other application data.
+Pendahuluan
+Education Bimble adalah aplikasi mobile yang bertujuan untuk mendidik anak-anak tentang pentingnya perkembangan karakter yang baik.
+Aplikasi ini dirancang untuk anak-anak usia 6-12 tahun dan diharapkan digunakan sebagai tambahan dari pendidikan kelas tradisional.
+User Personas
+Pengguna utama: Anak-anak 
+Pengguna sekunder: Orang tua dan pengasuh
+User Experience
+Aplikasi akan memiliki antarmuka yang sederhana dan mudah digunakan dengan grafis yang menyenangkan dan ramah anak-anak.
+Anak-anak dapat memilih kelompok usia mereka dan akan disajikan dengan konten yang sesuai dengan usia mereka.
 
 # User interface design:
 
-The user interface for the to-do list application will be clean and simple, with a focus on ease of use. The main screen will display a list of tasks, with the ability to filter and sort the tasks by various criteria. Each task will have a title, description, and due date, and will be displayed in a card-like layout. The user will be able to create, edit, and delete tasks using simple form inputs.
+Layar Utama
+Layar utama akan memiliki menu navigasi, yang memungkinkan pengguna untuk mengakses bagian yang berbeda dari aplikasi.
+Menu navigasi akan mencakup pilihan untuk: "Pelajaran," "Aktivitas," "Hadiah," "Profil," dan "Pengaturan."
+Layar utama juga akan menampilkan banner yang mempromosikan pelajaran atau aktivitas saat ini untuk hari tersebut.
+Pelajaran
+Bagian ini akan memiliki pelajaran interaktif tentang karakteristik karakter yang berbeda seperti kejujuran, kebaikan, dan tanggung jawab.
+Setiap pelajaran akan mencakup gambaran umum tentang karakteristik tersebut, aktivitas interaktif, dan tes untuk menguji pemahaman pengguna tentang materi tersebut.
+Aktivitas
+Bagian ini akan memiliki aktivitas harian yang dirancang untuk membantu pengguna berlatih dan menerapkan karakteristik karakter yang telah mereka pelajari dalam pelajaran.
+Aktivitas ini akan disesuaikan dengan kelompok usia pengguna dan akan mencakup permainan interaktif dan tantangan.
+Pengguna akan dapat melacak progres mereka dan mendapatkan hadiah untuk menyelesaikan aktivitas.
 
 ## Wireframe
 
