@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Education Bimble',
-  tagline: 'From groceries to goals, we have got you covered.',
+  tagline: 'Educating childrens character, soaring their potential.',
   url: 'https://educationbimble-mika.vercel.app//',
   baseUrl: '/',
   onBrokenLinks: 'throw',
