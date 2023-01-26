@@ -43,4 +43,6 @@ Screenshots of mockups
 some caption.
 
 # Demo
-[To-do List App](https://www.figma.com/file/dkFgitsW2gkHsJiFxOLbbr/Untitled?node-id=0%3A1&t=o6FOYsZZ9WLGDx9A-0)
+[To-do List App]
+
+https://www.figma.com/file/dkFgitsW2gkHsJiFxOLbbr/Untitled?node-id=0%3A1&t=o6FOYsZZ9WLGDx9A-1
