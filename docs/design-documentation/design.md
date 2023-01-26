@@ -32,15 +32,15 @@ Pengguna akan dapat melacak progres mereka dan mendapatkan hadiah untuk menyeles
 
 Screenshots of wireframes
 
-![1](./img/app_todo.webp)
+![1](./img/wireframemika.png)
 some caption.
 
 ## Mockups
 
 Screenshots of mockups
 
-![2](./img/app_todo2.webp)
+![2](./img/mockupmika.png)
 some caption.
 
 # Demo
-[To-do List App](https://todo.microsoft.com/)
+[To-do List App](https://www.figma.com/file/dkFgitsW2gkHsJiFxOLbbr/Untitled?node-id=0%3A1&t=o6FOYsZZ9WLGDx9A-0)
