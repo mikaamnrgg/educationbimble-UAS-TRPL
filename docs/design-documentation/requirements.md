@@ -17,3 +17,12 @@ Konten yang dapat disesuaikan dengan usia anak
 - Kebutuhan sumber daya: Aplikasi ini memerlukan akses internet untuk mengunduh konten dan dapat dijalankan pada perangkat mobile dengan spesifikasi yang cukup.
 - Rencana pengembangan: Aplikasi ini akan diperbarui secara berkala dengan konten baru dan fitur-fitur yang dapat membantu dalam proses pendidikan anak.
 - Dokumentasi: Dokumentasi aplikasi ini akan disediakan dalam bentuk manual pengguna dan panduan pengembangan untuk developer.
+
+# UML
+
+- Class Diagram
+
+![1](./img/UML-ClassDiaagram.png)
+some caption.
+
+
